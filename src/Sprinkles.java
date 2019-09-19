@@ -20,7 +20,7 @@ public class Sprinkles extends ToppingsDecorator{
 		return icecream.toString()+" + sprinkles";
 	}
 	/**
-	 * getCost adds cost of sprinkles to icecream
+	 * getCost adds cost of sprinkles(.2) to icecream
 	 */
 	public double getCost()
 	{
